@@ -102,6 +102,3 @@ The project includes a GitHub Actions workflow that automatically:
 - numpy
 - joblib
 
-## License
-
-This project is for educational purposes.
